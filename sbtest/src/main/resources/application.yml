@@ -1,0 +1,21 @@
+spring:
+  port: 8080
+  profiles:
+    active: docker
+  mvc:
+    throw-exception-if-no-handler-found: true
+  resources:
+    add-mappings: false
+logging:
+  level:
+    demo: info
+---
+spring:
+  profiles: docker
+  application:
+    name: sbtest
+    description: Spring Cloud Demo docekr env
+    version: ${spring.application.description} @project.version@
+    remoteGetIndexUrl: http://127.0.0.1:8080/v1/index/
+    remoteGetStock: http://127.0.0.1:8080/v1/getStock
+

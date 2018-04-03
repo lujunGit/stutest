@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sboauth2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sboauth3-all" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sbtest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sctest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sctest/scConfigClient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sctest/scConfigServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sctest/scEurekaClient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sctest/scEurekaServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sctest/scFeign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sctest/scRibbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sctest/scZuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stucommon" charset="UTF-8" />
+  </component>
+</project>

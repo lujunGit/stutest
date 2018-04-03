@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sboauth2/sboauth2.iml" filepath="$PROJECT_DIR$/sboauth2/sboauth2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sboauth3-all/sboauth3-all.iml" filepath="$PROJECT_DIR$/sboauth3-all/sboauth3-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sbtest/sbtest.iml" filepath="$PROJECT_DIR$/sbtest/sbtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sctest/scConfigClient/scConfigClient.iml" filepath="$PROJECT_DIR$/sctest/scConfigClient/scConfigClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sctest/scConfigServer/scConfigServer.iml" filepath="$PROJECT_DIR$/sctest/scConfigServer/scConfigServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sctest/scEurekaClient/scEurekaClient.iml" filepath="$PROJECT_DIR$/sctest/scEurekaClient/scEurekaClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sctest/scEurekaServer/scEurekaServer.iml" filepath="$PROJECT_DIR$/sctest/scEurekaServer/scEurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sctest/scFeign/scFeign.iml" filepath="$PROJECT_DIR$/sctest/scFeign/scFeign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sctest/scRibbon/scRibbon.iml" filepath="$PROJECT_DIR$/sctest/scRibbon/scRibbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sctest/scZuul/scZuul.iml" filepath="$PROJECT_DIR$/sctest/scZuul/scZuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sctest/sctest.iml" filepath="$PROJECT_DIR$/sctest/sctest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stucommon/stucommon.iml" filepath="$PROJECT_DIR$/stucommon/stucommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stutest.iml" filepath="$PROJECT_DIR$/stutest.iml" />
+    </modules>
+  </component>
+</project>

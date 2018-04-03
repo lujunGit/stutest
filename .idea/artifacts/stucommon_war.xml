@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="stucommon:war">
+    <output-path>$PROJECT_DIR$/stucommon/target</output-path>
+    <root id="archive" name="stucommon.war">
+      <element id="artifact" artifact-name="stucommon:war exploded" />
+    </root>
+  </artifact>
+</component>

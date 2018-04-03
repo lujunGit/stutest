@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sboauth2" />
+        <module name="sboauth3-all" />
+        <module name="sbtest" />
+        <module name="scConfigClient" />
+        <module name="scConfigServer" />
+        <module name="scEurekaClient" />
+        <module name="scEurekaServer" />
+        <module name="scFeign" />
+        <module name="scRibbon" />
+        <module name="scZuul" />
+        <module name="stucommon" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common" target="1.6" />
+      <module name="sb-oauths2" target="1.6" />
+      <module name="sboauth2" target="1.6" />
+      <module name="sboauth3-all" target="1.6" />
+      <module name="sbtest" target="1.6" />
+      <module name="scConfigClient" target="1.6" />
+      <module name="scConfigServer" target="1.8" />
+      <module name="scEurekaClient" target="1.6" />
+      <module name="scEurekaServer" target="1.6" />
+      <module name="scEurekaService" target="1.6" />
+      <module name="scFeign" target="1.6" />
+      <module name="scRibbon" target="1.6" />
+      <module name="sctest" target="1.6" />
+      <module name="scZuul" target="1.6" />
+      <module name="stucommon" target="1.6" />
+      <module name="stutest" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

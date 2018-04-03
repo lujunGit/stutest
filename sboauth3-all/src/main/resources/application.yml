@@ -1,0 +1,14 @@
+server:
+  port: 8082
+security:
+  oauth2:
+    client:
+      clientId: acme
+      clientSecret: acmesecret
+      accessTokenUri: http://127.0.0.1:8787
+      userAuthorizationUri: http://127.0.0.1:8181/oauth/authorization
+      ##tokenName: oauth_token
+      authenticationScheme: query
+      clientAuthenticationScheme: form
+    resource:
+      userInfoUri: http://127.0.0.1:8181/uaa/user

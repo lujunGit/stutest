@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sctest:war">
+    <output-path>$PROJECT_DIR$/sctest/target</output-path>
+    <root id="archive" name="sctest.war">
+      <element id="artifact" artifact-name="sctest:war exploded" />
+    </root>
+  </artifact>
+</component>

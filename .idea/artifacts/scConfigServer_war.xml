@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="scConfigServer:war">
+    <output-path>$PROJECT_DIR$/sctest/scConfigServer/target</output-path>
+    <root id="archive" name="scConfigServer.war">
+      <element id="artifact" artifact-name="scConfigServer:war exploded" />
+    </root>
+  </artifact>
+</component>
